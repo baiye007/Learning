@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "showFrontmatter": false,
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "c89f0cabb869256d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e850d7afa07808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63226d305bab1ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C&&C++/GDB/GDB教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a774c9de4fb3c43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/Obsidian使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92730acaaa8d2ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d55da51a18e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fa67ae85f2f3ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4262e7c3dad46354",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b32c6079cbc87ca8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "4a4d5a24eb0e52fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "421764cb1d86de1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622f4f9f0233e088",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Others/Obsidian使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac478bf4aea46718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Others/Obsidian使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fd43872971050f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5219dd6019d40bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Others/Obsidian使用.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a774c9de4fb3c43d",
+  "lastOpenFiles": [
+    "C&&C++/GDB/GDB教程.md",
+    "Others/Obsidian使用.md",
+    "C&&C++/GDB/images/1-200QQ10254163.gif",
+    "C&&C++/GDB/images/1-200QQ10254163-1688632662743-15.gif",
+    "C&&C++/GDB/images/1-200QQ102251Y.gif",
+    "C&&C++/GDB/images/1-200QQ102251Y-1688632641244-13.gif",
+    "C&&C++/GDB/images/1-200QQ101422I.gif",
+    "C&&C++/GDB/images/1-200QQ101422I-1688632621918-11.gif",
+    "C&&C++/GDB/images/1-200QQ101111S.gif",
+    "C&&C++/GDB/images/1-200QQ101111S-1688632596817-9.gif",
+    "C&&C++/GDB/images/1-200QQ100412I.gif",
+    "C&&C++/GDB/images/1-200QQ100412I-1688632576504-7.gif",
+    "images/Obsidian图片配置.png.md",
+    "images",
+    "Others/images",
+    "QEMU.md",
+    "().md",
+    "Others",
+    "C&&C++/GDB/Pasted image 20230706135907.png.md",
+    "C&&C++/GDB/images/qrcode_mp.pngv=1.7-1688624180143-1.03",
+    "C&&C++/GDB/images",
+    "C&&C++/GDB/${filename}.assets"
+  ]
+}

@@ -1,0 +1,17 @@
+img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+table
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+   
+ .markdown-source-view.mod-cm6 .cm-content > * {
+    margin: auto auto !important;
+}
